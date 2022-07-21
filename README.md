@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s3.ezgif.com/save/ezgif-3-85b57092f9.gif' width='' alt='Video Walkthrough' />
+<img src='https://s3.ezgif.com/save/ezgif-3-85b57092f9.gif' width='' alt='gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
