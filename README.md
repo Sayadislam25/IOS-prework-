@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[gif.mov](http://g.recordit.co/DThd5E6HIZ.gif)' width='' alt='gif' />
+<img src='http://g.recordit.co/DThd5E6HIZ.gif' width='' alt='gif' />
 
 
 
