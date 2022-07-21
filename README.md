@@ -28,7 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s3.ezgif.com/save/ezgif-3-85b57092f9.gif' width='' alt='gif' />
+<img src='https://user-images.githubusercontent.com/100914311/180152664-8c544ffe-a644-46bc-9193-c75d995fd0e9.mov' width='' alt='gif' />
+
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
