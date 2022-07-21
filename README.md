@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/100914311/180152664-8c544ffe-a644-46bc-9193-c75d995fd0e9.mov' width='' alt='gif' />
+<img src='gif.mov' width='' alt='gif' />
 
 
 
